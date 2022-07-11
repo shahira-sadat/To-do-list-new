@@ -27,23 +27,6 @@ install git, node, any code editor in your local machine
 ### Setup
 clone the repo or download from https://github.com/shahira-sadat/To-Do-list
 
-### Install dependencies
-
-npm install
-
-
-### Build the app
-
-npm run build
-
-
-### Run the app
-
-npm start
-
-### Deployment
-
-To run the project run the "index.html" file in your browser.
 
 
 ## Authors
